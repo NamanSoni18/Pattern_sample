@@ -1,3 +1,4 @@
+// for direct printing stars in 4 rows and 5 columns
 public class solid_pattern {
     public static void main(String[] args) {
         
