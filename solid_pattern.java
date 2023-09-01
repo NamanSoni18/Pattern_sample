@@ -8,7 +8,9 @@ public class solid_pattern {
             for(int j = 1;j<=5;j++) {
                 System.out.print("* ");
             }
-            System.out.println(""); // for next line
+
+            // for next line
+            System.out.println(""); 
         }
     }
 }
