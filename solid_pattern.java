@@ -1,3 +1,4 @@
+// for direct printing stars in 4 rows and 5 columns
 public class solid_pattern {
     public static void main(String[] args) {
         
@@ -9,7 +10,8 @@ public class solid_pattern {
                 System.out.print("* ");
             }
 
-            System.out.println(""); // for Next Line
+            // for next line
+            System.out.println(""); 
         }
     }
 }
