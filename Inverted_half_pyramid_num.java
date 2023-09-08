@@ -8,7 +8,7 @@ public class Inverted_half_pyramid_num {
 
             for(int j=1;j<=i;j++) {
 
-                System.out.print(j+ " ");
+                System.out.print("* ");
 
             }
 
